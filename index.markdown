@@ -5,7 +5,7 @@ layout: default
 ## Links
 
 - [Email](mailto:raphael.guionaud@outlook.com)
-- [Resume](./_includes/RaphaelGuionaudCV.pdf)
+- [Resume](/assets/RaphaelGuionaudCV.pdf)
 - [Github](https://github.com/raphaelguionaud/)
 - [LinkedIn](https://www.linkedin.com/in/raphael-guionaud-70b595232/)
 
@@ -17,5 +17,3 @@ layout: default
 ## Where I've worked
 
 - [Ricoh Spaces](https://get.ricohspaces.com/)
-
-> Air is beautiful, yet you cannot see it. It's soft, yet you cannot touch it. Air is a little like my brain. - Jean-Claude Van Damme

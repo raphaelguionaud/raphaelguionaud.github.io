@@ -17,9 +17,7 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <!-- <img src="/assets/me.jpg" alt="me"> -->
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -32,8 +30,8 @@
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="mailto:raphael.guionaud@outlook.com">Send <strong>Email</strong></a></li>
-          <li><a href="../_includes/RaphaelGuionaudCV.pdf">Download <strong>Resume</strong></a></li>
-          <li><a href="github.com/raphaelguionaud">View On <strong>GitHub</strong></a></li>
+          <li><a href="/assets/RaphaelGuionaudCV.pdf">Download <strong>Resume</strong></a></li>
+          <li><a href="https://github.com/raphaelguionaud">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
       </header>
